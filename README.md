@@ -1,5 +1,5 @@
 # NOAA-PMEL-OME-Machida-Metazoan-18S-V8-PCR-Protocol-BeBOP
-See [NOAA-PMEL-OME-Machida-Metazoan-18S-V8-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Kelly-Metazoan-16S-PCR-Protocol-BeBOP-/blob/main/NOAA-PMEL-OME-Kelly-Metazoan-16S-PCR-Protocol-BeBOP.md) for detailed protocol.  
+See [NOAA-PMEL-OME-Machida-Metazoan-18S-V8-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Machida-Metazoan-18S-V8-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Machida-Metazoan-18S-V8-PCR-Protocol-BeBOP.md) for detailed protocol.  
 This is verion 0.0 and is draft document that has not been finalized or version controlled.
 
 ## Disclaimer
