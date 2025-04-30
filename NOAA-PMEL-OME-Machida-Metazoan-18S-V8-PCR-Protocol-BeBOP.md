@@ -1,3 +1,29 @@
+---
+#MIOP terms
+methodology_category: Omics analysis
+project: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Program Protocols
+purpose: 'PCR [OBI:0000415]'
+analyses: 'PCR [OBI:0000415]'
+geographic_location: 'North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323]'
+broad_scale_environmental_context: 'oceanic epipelagic zone biome [ENVO:01000035], marine biome [ENVO:00000447], marine benthic biome [ENVO:01000024]'
+local_environmental_context: 'oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024]'
+environmental_medium: 'sea water [ENVO:00002149] , DNA extraction [OBI:0000257]'
+target: '18S Ribosomal RNA [NCIT:C48172]'
+creator: 'Shannon Brown, Han Weinrich, and Zachary Gold'
+materials_required: 'agarose gel electrophoresis system [OBI:0001134] , PCR instrument [OBI:0000989]'
+skills_required: 'sterile technique, pipetting skills, and standard molecular technique'
+time_required: 210
+personnel_required: 1
+language: en
+issued: 2024-05-30
+audience: 'scientists'
+publisher: 'NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Program; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies'
+hasVersion: 1
+license: 'CC0 1.0 Universal'
+maturity level: 'mature'
+
+
+
 # NOAA PMEL OME Machida Metazoan 18S V8 PCR Protocol
 
 
