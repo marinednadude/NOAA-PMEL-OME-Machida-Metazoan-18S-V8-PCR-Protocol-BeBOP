@@ -184,6 +184,8 @@ PCR preparation and running the PCR protocol for a single 96-well plate takes 3.
 
 ## EQUIPMENT
 
+For a 96-well Plate:
+
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment**|
