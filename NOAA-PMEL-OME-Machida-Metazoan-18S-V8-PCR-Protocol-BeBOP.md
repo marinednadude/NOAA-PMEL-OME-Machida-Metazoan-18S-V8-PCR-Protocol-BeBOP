@@ -255,7 +255,6 @@ For a 96-well Plate:
 3. Run the UV light in the BSC for 30 minutes before starting work.
 4. Label all PCR plates both on the side of the plate and on the top of the foil (in the plate margins). Recommended labeling scheme includes plate name, primer, date of PCR, and personnel initials.
 
-
 #### PCR
 
 **Primer Sequences without Adapters**: PCR primer sequences (target sequence bolded)
@@ -312,7 +311,7 @@ For a 96-well Plate:
 9. Spin down the plate, and then transport in cooler blocks before placing in thermocycler.
 10.  Run thermocycler protocol.
 
-### Quality control
+### Quality Control
 
 1. Plates should be removed from the thermocycler  after the run completes and stored at 4°C until run on a gel. Storing the PCR product at -20˚C is ideal for 1-6 month term storage, while -80˚C is ideal for long-term storage.
 2. Run gel visualization to confirm successful PCR. [NOAA-PMEL-OME-GelVisualization-Protocol pending]
