@@ -278,6 +278,7 @@ For a 96-well Plate:
 | Template DNA|N/A| 2 | 100%|8% |
 | **Total**|**2392**| **25** | **N/A** |**N/A**|
 
+This table breaks down the mixture per plate and per reaction. When running full plates (96-wells), each reagent volume was multipled by 104 (96+8 extra sample volumes to account for pipetting error) when preparing the final master mix.
 
 **PCR Cycling Program**:
 
