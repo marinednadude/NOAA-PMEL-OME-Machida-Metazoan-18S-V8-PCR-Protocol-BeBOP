@@ -5,8 +5,8 @@ project: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Gr
 purpose: 'PCR [OBI:0000415]'
 analyses: 'PCR [OBI:0000415]'
 geographic_location: 'North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323]'
-broad_scale_environmental_context: 'marine biome [ENVO:00000447], marine benthic biome [ENVO:01000024]'
-local_environmental_context: 'oceanic epipelagic zone biome [ENVO:01000035], marine biome [ENVO:00000447], marine benthic biome [ENVO:01000024]'
+broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
+local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024]
 environmental_medium: 'sea water [ENVO:00002149]'
 target: '18S Ribosomal RNA [NCIT:C48172]'
 creator: 'Shannon Brown, Han Weinrich, Zachary Gold'
