@@ -264,7 +264,7 @@ For a 96-well Plate:
 |Machida_18S V8 F | Forward |**GYGGTGCATGGCCGTTSKTRGTT** |
 |Machida_18S V8 R | Reverse | **GTGTGYACAAAGGBCAGGGAC** |
 
-Forewarning, [Machida & Nowlton 2012](https://doi.org/10.1371/journal.pone.0046180) published an erratum fixing primer orientation, but we have confirmed that these sequences are correct.
+[Machida & Nowlton 2012](https://doi.org/10.1371/journal.pone.0046180) published an erratum fixing primer orientation, but we have confirmed that these sequences are correct.
 
 **Primer Sequences Used**: PCR primer sequences with Illumina Adapters
 (Adapter sequence + **target sequence bolded**)
