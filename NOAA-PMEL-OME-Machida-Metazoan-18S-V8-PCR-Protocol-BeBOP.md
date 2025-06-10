@@ -15,7 +15,7 @@ skills_required: 'sterile technique, pipetting skills, and standard molecular te
 time_required: 210
 personnel_required: 1
 language: en
-issued: '2025-05-29'
+issued: '2025-06-10'
 audience: 'scientists'
 publisher: 'NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies'
 hasVersion: 1
@@ -36,8 +36,8 @@ target_subfragment: V8
 ampliconSize: 380
 pcr_primer_forward: GYGGTGCATGGCCGTTSKTRGTT
 pcr_primer_reverse: GTGTGYACAAAGGBCAGGGAC
-pcr_primer_name_forward: Machida_18S V78 F
-pcr_primer_name_reverse: Machida_18S V78 R
+pcr_primer_name_forward: Machida_18S V8 F
+pcr_primer_name_reverse: Machida_18S V8 R
 pcr_primer_reference_forward: https://doi.org/10.1371/journal.pone.0134314
 pcr_primer_reference_reverse: https://doi.org/10.1371/journal.pone.0134314
 pcr_primer_vol_forward: 0.75
@@ -104,7 +104,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
-|  NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBO  | Pending | 0.0 | yyyy-mm-dd   | Internal  |
+| NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP  | https://github.com/HanWeinrich/NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP.md | 1.0.0 | 2025-06-04 | Internal  |
 
 ### Protocol Revision Record
 
@@ -117,6 +117,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 | 1.0.0 | 2024-02-01 | Initial release |
 | 1.1.0 | 2025-05-01 | Addition of FAIR eDNA terms in YAML frontmatter and formatting edits |
 | 1.1.1 | 2025-05-29 | Minor acronym and content revisions  |
+| 1.2.0 | 2025-06-10 | Adding Gel Electrophoresis protocol, new acronym, and updated reaction mixture concentration |
 
 ### Acronyms and Abbreviations
 
@@ -136,7 +137,8 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 |OME	|Ocean Molecular Ecology|
 |PCR| Polymerase chain reaction |
 |PMEL	|Pacific Marine Environmental Laboratory|
-|PPE    | Personal protective equipment |
+|PPE  | Personal protective equipment |
+|UV| Ultraviolet|
 |UW| University of Washington|
 |WC-OBON|West Coast Ocean Biomolecular Observing Network|
 
@@ -259,8 +261,10 @@ For a 96-well Plate:
 
 | PCR Primer Name | Direction | Sequence (5’ -> 3’)|
 | ----- | ----- | ----- |
-|Machida_18S V78 F | Forward |**GYGGTGCATGGCCGTTSKTRGTT** |
-| Machida_18S V78 R | Reverse | **GTGTGYACAAAGGBCAGGGAC** |
+|Machida_18S V8 F | Forward |**GYGGTGCATGGCCGTTSKTRGTT** |
+|Machida_18S V8 R | Reverse | **GTGTGYACAAAGGBCAGGGAC** |
+
+Forewarning, [Machida & Nowlton 2012](https://doi.org/10.1371/journal.pone.0046180) published an erratum fixing primer orientation, but we have confirmed that these sequences are correct.
 
 **Primer Sequences Used**: PCR primer sequences with Illumina Adapters
 (Adapter sequence + **target sequence bolded**)
@@ -273,7 +277,7 @@ For a 96-well Plate:
 
 | Reagent |Volume (μL) per plate| Volume (μL) per reaction | Intial concentration| Final concentration|
 | ----- | ----- | ----- |----- |-----|
-|AmpliTaq Gold Fast PCR Master Mix  |1040|  10|100% | 40%|
+|AmpliTaq Gold Fast PCR Master Mix  |1040|  10|200% | 80%|
 | Forward Primer| 78| 0.75|5 μM | 0.15 μM |
 | Reverse Primer |78| 0.75|5 μM |0.15 μM |
 | Nuclease-Free Water |1196| 11.5| N/A|N/A |
